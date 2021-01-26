@@ -1,0 +1,16 @@
+{
+  "cars": [
+    {
+      "id": 2,
+      "model": "Mercedes benz c180",
+      "color": "Azul",
+      "price": 194.9
+    },
+    {
+      "id": 3,
+      "model": "Land Rover Range Rover Velar",
+      "color": "Branco",
+      "price": 377.38
+    }
+  ]
+}
